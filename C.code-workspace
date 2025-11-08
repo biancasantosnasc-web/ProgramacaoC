@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../Downloads/C"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ADIVINHA.C": "cpp"
+		}
+	}
+}
